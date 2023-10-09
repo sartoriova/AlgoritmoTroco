@@ -1,4 +1,5 @@
 # AlgoritmoTroco
 
 Este site foi desenvolvido quando eu estava no segundo ano do meu curso de TII. 
-Basta digitar um valor númerico no campo de entrada, 
+No campo de entrada, o usuário deve digitar um valor numérico, que estaria representando o troco.
+Ao digitar este valor e apertar no botão "Conferir!", o algoritmo irá dizer para o usuário como ele pode devolver este troco, usando quais notas, quais moedas e suas respectivas quantidades.
